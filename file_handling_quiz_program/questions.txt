@@ -1,0 +1,17 @@
+DSA|What is the full form of DSA?|1. Data Structure and Algorithm|2. Data Science Algorithm|3. Data Sort Algorithm|4. Domain Search Algorithm|1
+DSA|Which data structure uses LIFO?|1. Queue|2. Stack|3. Array|4. Linked List|2
+DSA|What is the time complexity of binary search?|1. O(n)|2. O(log n)|3. O(n^2)|4. O(1)|2
+DSA|Which of the following is a linear data structure?|1. Graph|2. Binary Tree|3. Stack|4. Hash Table|3
+DSA|Which sorting algorithm is the fastest in average cases?|1. Bubble Sort|2. Merge Sort|3. Quick Sort|4. Insertion Sort|3
+
+DBMS|Which SQL statement is used to create a table?|1. INSERT INTO|2. UPDATE|3. CREATE TABLE|4. ALTER TABLE|3
+DBMS|What does ACID stand for in DBMS?|1. Atomicity, Consistency, Isolation, Durability|2. Atomicity, Connection, Isolation, Database|3. Accuracy, Consistency, Indexing, Durability|4. Automation, Clustering, Integration, Database|1
+DBMS|Which key is used to uniquely identify each record in a table?|1. Primary Key|2. Foreign Key|3. Unique Key|4. Composite Key|1
+DBMS|What does the JOIN operation do in SQL?|1. Merges two tables|2. Deletes rows|3. Updates columns|4. Creates a table|1
+DBMS|Which SQL command is used to remove a table?|1. DROP|2. DELETE|3. TRUNCATE|4. REMOVE|1
+
+Python|Which of the following is a mutable data type?|1. Tuple|2. List|3. String|4. Integer|2
+Python|What is the output of print(2 ** 3)?|1. 6|2. 8|3. 9|4. 4|2
+Python|Which keyword is used to define a function in Python?|1. function|2. def|3. define|4. fun|2
+Python|What does `len()` do in Python?|1. Finds the sum|2. Counts elements|3. Finds the length|4. Creates a list|3
+Python|What is the output of `print(type([]))`?|1. <class 'list'>|2. <class 'dict'>|3. <class 'set'>|4. <class 'tuple'>|1
